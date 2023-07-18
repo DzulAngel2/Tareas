@@ -1,0 +1,83 @@
+*{margin:0; padding: 0;}
+
+html{background-color: white;}
+body{width: 1000px; height: 950px;margin: auto;
+background-color: rgba(240, 17, 17, 0.473);}
+
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+ 
+  button:nth-of-type(2) {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+
+  button:nth-of-type(3) {
+    background-color: rgb(223, 7, 7);
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+
+  button:nth-of-type(4) {
+    background-color: rgb(226, 20, 209);
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+
+  button:nth-of-type(5) {
+    background-color: rgb(20, 218, 201);
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+
+  #resultado {
+    margin-top: 20px;
+    background-color: lightgray;
+    padding: 10px;
+  }
+  
+
+  #resultado2 {
+    margin-top: 20px;
+    background-color: lightgray;
+    padding: 10px;
+  }
+
+  #resultado3 {
+    margin-top: 20px;
+    background-color: lightgray;
+    padding: 10px;
+  }
+  
+
+  #resultado4 {
+    margin-top: 20px;
+    background-color: lightgray;
+    padding: 10px;
+  }
+
+  #resultado5 {
+    margin-top: 20px;
+    background-color: lightgray;
+    padding: 10px;
+  }
+  
+  
+  
+
+  
